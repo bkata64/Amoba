@@ -7,4 +7,4 @@ Ide jöhet a leírás
 
 [A program a replit.com oldalon](https://replit.com/@bkata/SandybrownShorttermMass#main.py)
 
-![kep.png](kep.png)
+![kep.PNG](kep.PNG)
